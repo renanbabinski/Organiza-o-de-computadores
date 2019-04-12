@@ -1,0 +1,5 @@
+		.data
+		
+vector: 	.word			
+vectorExistentes:	.space 		400	#400 espaços para o vetor
+vectorQtd:		.space		400 	#400 espaços para o vetor
